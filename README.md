@@ -13,9 +13,9 @@ This is a daily Python practice game with my friend YueWu.
 - Topic 2: String Repetition
 - Topic 3: String Counting
 - Topic 4: Calculating Average Value
-- Topic 5: Finding Maximum Value
+- Topic 5: Finding Greatest Common Divisor 
 - Topic 6: Fibonacci Sequence
-- Topic 7: Go to Page 10
+- Topic 7: Looking for a prime number 
 - Topic 8: Sorting Algorithm Implementation
 
 ## Loop Statements
