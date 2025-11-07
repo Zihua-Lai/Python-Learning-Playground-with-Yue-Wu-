@@ -29,8 +29,8 @@ This is a daily Python practice game with my friend YueWu.
 ## Input/Output
 - Topic 1: Simple User Input
 - Topic 2: Number Comparison
-- Topic 3: Calculating Grades
-- Topic 4: Guessing Game
+- Topic 3: Calculating the Average Grades
+- Topic 4: Guessing Number Games
 - Topic 5: File Reading
 
 ## NumPy Arrays
