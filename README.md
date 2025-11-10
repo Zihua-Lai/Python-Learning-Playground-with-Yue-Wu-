@@ -47,7 +47,7 @@ This is a daily Python practice game with my friend YueWu.
 - Exercise 4: Various selection methods for NumPy arrays
 - Exercise 5: Mean and standard deviation of NumPy arrays
 - Exercise 6: Product and sum of NumPy arrays
-- Exercise 7: NumPy array’s own 
+- Exercise 7: NumPy array broadcast
 
 ## NumPy Array Transformations
 - Exercise 1: NumPy array reshaping
