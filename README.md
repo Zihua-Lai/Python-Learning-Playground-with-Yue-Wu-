@@ -71,11 +71,11 @@ This is a daily Python practice game with my friend YueWu.
 - Exercise 5: Minimum and maximum values of NumPy arrays
 
 ## Python Lists
-- Exercise 1: List element representation
-- Exercise 2: Adding list elements
-- Exercise 3: Deleting list elements
-- Exercise 4: Indexing list elements
-- Exercise 5: Sorting lists
+- Exercise 1: Adding list elements
+- Exercise 2: Deleting duplicated list elements
+- Exercise 3: Reverse the order of the list elements
+- Exercise 4: Sorting lists
+- Exercise 5: common area of 2 lists
 
 ## Python Dictionaries
 - Exercise 1: Create and print dictionaries
