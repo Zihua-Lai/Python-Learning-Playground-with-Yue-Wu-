@@ -80,9 +80,9 @@ This is a daily Python practice game with my friend YueWu.
 ## Python Dictionaries
 - Exercise 1: Create and print dictionaries
 - Exercise 2: Dictionary content
-- Exercise 3: Inserting with key-value pairs
-- Exercise 4: Retrieving values by key
-- Exercise 5: Dictionary groups
+- Exercise 3: Accumulate the values in a dictionary
+- Exercise 4: Finding the maximum values by key
+- Exercise 5: Exercise 5: Nested Dictionary
 
 ## Python Tuples
 - Exercise 1: Basic tuple operations
